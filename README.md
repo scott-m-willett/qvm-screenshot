@@ -20,3 +20,5 @@ Setting this up will mean pressing "Windows key + S" (or Super + S) will allow y
 - Option to be able to copy to the global clipboard, and then paste into a Qube
 - Option to select a VM to copy this to after taking the screenshot
 - Allow configuring a custom name for a screenshot (omitting the file name from the screenshot command can enable this)
+
+No intention to do this currently since this serves my purposes, and adding the above will just make the task take a little longer. Being able to take a screenshot and be able to copy / paste would be a great features, however much more investigation on how to do this is likely required.
