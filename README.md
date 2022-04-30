@@ -8,6 +8,8 @@ After vetting this script, copy to dom0 (this can help with that: https://www.qu
 
 I recommend creating the dir /opt/qvm-screenshot and placing it there
 
+Then give an access to execute the script in dom0: `chmod +x /opt/qvm-screenshot.sh`
+
 Go to your Qubes app menu > system tools > keyboard
 
 Click add and browse to this file. Assign the shortcut "Windows Key + S" (or Super + S).
